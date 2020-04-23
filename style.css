@@ -1,0 +1,427 @@
+*{
+    box-sizing: border-box;
+}
+
+.header{
+    position: relative;
+    background-color: crimson;
+    width: 850px;
+    height: 400px;
+    left: 350px;
+    
+    
+}
+
+.header-bar{
+    position: relative;
+    background-color: lightgrey;
+    width: 850px;
+    height: 50px;
+    left: 350px;
+    top: -50px;
+}
+
+.profile-picture{
+    position: relative;
+    background-image: url(c:/Users/13133/Pictures/pro\ pic\ \(2\).jpg);
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 150px;
+    border: 1px solid lightcoral;
+    left: 375px;
+    top: -220px;
+    background-size: cover;
+    background-position: center;
+    z-index: 5;}
+    
+
+h2{
+   position: relative;
+   color: white;
+   font-family: sans-serif;
+   font-weight: bold;
+   top: 290px;
+   left: 200px;
+}
+
+h4{
+    position: relative;
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+    top: -50px;
+    left: 200px;
+}
+
+.profile-buttons{
+   position: relative;
+   top: -230px;   
+   left: 550px;
+}
+ .top-bar{
+     position: relative;
+     text-align: center;
+     left: 275px;   
+     top: -300px;
+    }
+
+.main-col{
+    position: relative;
+    float: right;
+    background-color: darkgrey;
+    width: 512px;
+    height: 300px;
+    top: -150px;
+    margin-right: 368px;
+}
+
+.side-col{
+    position: relative;
+    float: left;
+    background-color:lightgray;
+    width: 328px;
+    height: 175px;
+    top: -150px;
+    margin-left: 348px;
+}
+
+.cover-photo{
+    position: relative;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 502px;
+    height: 200px;
+    left: 3.5px;
+    top: 60px;
+}
+
+.tiny-pic1{
+    position: relative;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 40px;
+    height: 40px;
+    top: -190px;
+    left: 10px;
+
+}
+
+
+.lcs-bar1{
+   position: relative;
+   background-color: lightgray;
+   border-top: 1px solid lightcoral;
+   width: 512px;
+   height: 35px;
+   top: 25px;
+}
+
+.about-me1{
+    position: relative;
+    background-color: lightgrey;
+    width: 328px;
+    height: 40px;
+    top: -16px;
+
+
+}
+
+.p1{
+    position: relative;
+    color: black;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    top: 50px;
+    left: 5px;
+}
+
+.p2{
+    position: relative;
+    color: black;
+    font-family: 'fjalla one',sans-serif;
+    top: 40px;
+    left: 5px;
+}
+
+
+
+.web-box{
+    position: relative;
+    background-color: lightgray;
+    border-top: black;
+    width: 328px;
+    height: 20px;
+    top: 130px;
+
+}
+
+.second-box{
+    position: relative;
+    background-color: darkgrey;
+    width: 328px;
+    height: 100px;
+    top: 110px;
+}
+
+.about-me2{
+    position: relative;
+    background-color: lightgray;
+    border-bottom: 1px solid lightcoral;
+    width: 328px;
+    height: 40px;
+    top: 10px;
+}
+
+.app-box{
+position: relative;
+background-color: darkgrey;
+width: 328px;
+height: 340px;
+top: 80px;
+border-bottom: 1px solid lightcoral;
+}
+
+.app-bar{
+    position: relative;
+    background-color: lightgray;
+    width: 328px;
+    height: 40px;
+    border-bottom: 1px solid lightcoral;
+}
+
+.slot1{
+    position: relative;
+    background-color: darkgrey;
+    width: 328px;
+    height: 100px;
+    border-bottom: 1px solid lightcoral; 
+    
+}
+
+.slot2{
+    position: relative;
+    background-color:darkgrey;
+    width: 328px;
+    height: 100px;
+    border-bottom: 1px solid lightcoral;
+}
+
+.slot1-pic{
+    position: relative;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 110px;
+    height: 75px;
+    top: -188px;
+    left: 5px;
+
+}
+
+.slot2-pic{
+    position: relative;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 110px;
+    height: 75px;
+    top: -163px;
+    left: 5px;
+}
+
+.slot3-pic{
+    position: relative;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 110px;
+    height: 75px;
+    top: -138px;
+    left: 5px;
+}
+
+.post-box1{
+    position: relative;
+    background-color: darkgrey;
+    width: 512px;
+    height: 150px;
+    top: 35px; 
+    
+}
+
+.lcs-bar2{
+    position: relative;
+    background-color: lightgray;
+    width: 512px;
+    height: 35px;
+    border-top: 1px solid lightcoral;
+    top: 115px;
+
+}
+
+.tiny-pic2{
+    position: relative;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 40px;
+    height: 40px;
+    top: -25px;
+    left: 10px;
+}   
+
+.post-box2{
+    position: relative;
+    background-color:darkgrey;
+    width: 512px;
+    height: 300px;
+    top: 45px;
+}
+
+.lcs-bar3{
+    position: relative;
+    background-color: lightgray;
+    border-top: 1px solid lightcoral;
+    width: 512px;
+    height: 35px;
+    top: 265px;
+}
+
+.post-box2-photo{
+    position: relative;
+    background-color: crimson;
+    width: 490px;
+    height: 200px;
+    top: 20px;
+    left: 10px;
+}
+
+.post2-bar{
+   position: relative;
+   background-color: lightgray;
+   border: 1px solid lightcoral;
+   width: 490px;
+   height: 50px;
+   top: -30px;
+   left: 10px;
+}
+
+.tiny-pic3{
+    position: relative;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 40px;
+    height: 40px;
+    top: -275px;
+    left: 10px;
+}
+
+.post-box3{
+    position: relative;
+    background-color: darkgray;
+    width: 512px;
+    height: 150px;
+    top: 55px;
+}
+
+.lcs-bar4{
+    position: relative;
+    background-color: lightgray;
+    width: 512px;
+    height: 35px;
+    border-top: 1px solid lightcoral;
+    top: 20px;
+}
+
+.tiny-pic4{
+    position: relative;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 40px;
+    height: 40px;
+    top: -120px;
+    left: 10px;
+}
+ 
+.photos{
+    position: relative;
+    background-color: darkgrey;
+    width: 328px;
+    height: 360px;
+    top: 90px;
+}
+
+.photo-bar{
+    position: relative;
+    background-color: lightgray;
+    border-bottom: 1px solid lightcoral;
+    width: 328px;
+    height: 40px;
+}
+
+.photo1{
+    position: absolute;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 100px;
+    height: 100px;
+    top: 45px;
+    left: 5px;
+
+}
+
+.photo2{
+    position: absolute;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 100px;
+    height: 100px;
+    top: 45px;
+    left: 113px;
+}
+
+.photo3{
+    position: absolute;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 100px;
+    height: 100px;
+    top: 45px;
+    left: 220px;
+}
+
+.photo4{
+    position: absolute;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 100px;
+    height: 100px;
+    top: 150px;
+    left: 5px;
+}
+
+.photo5{
+    position: absolute;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 100px;
+    height: 100px;
+    top: 150px;
+    left: 113px;
+}
+
+.photo6{
+    position: absolute;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 100px;
+    height: 100px;
+    top: 150px;
+    left: 220px;
+}
+
+.photo7{
+    position: absolute;
+    background-color: crimson;
+    border: 1px solid lightcoral;
+    width: 100px;
+    height: 100px;
+    top: 255px;
+    left: 5px;
+}
